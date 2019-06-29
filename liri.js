@@ -1,5 +1,5 @@
 require("dotenv").config()
-var fs = requrie("fs")
+var fs = require("fs")
 var axios = require("axios");
 var moment = require("moment");
 var spotify = require("node-spotify-api");
