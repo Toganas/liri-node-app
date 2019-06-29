@@ -19,9 +19,10 @@ var bandsInTown = "https://rest.bandsintown.com/artists/" + artist + "/events?ap
 if (argv2 === "concert-this") {
     axios.get(bandsInTown).then(
         function (response) {
-            for (var i = 0; i < response.data.length; i++){
-            console.log("Venue Name: " + response.data[i].venue.name)};
-            
+            for (var i = 0; i < response.data.length; i++) {
+                console.log("Venue Name: " + response.data[i].venue.name);
+                console.log("Venue Location: " + response.data[i].venue.city + ", " + response.data[i].venue.region + ", " + response.data[i].venue.country)
+            }
         }
     )
 }
