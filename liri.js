@@ -38,18 +38,7 @@ function bands() {
                 Venue Name: ${response.data[i].venue.name}
                 Venue Location: ${response.data[i].venue.city}, ${response.data[i].venue.region}, ${response.data[i].venue.country}
                 Event Date: ${date}`)
-                // let day = response.data[i].datetime
-                // let date = moment(day).format("MM/DD/YYYY");
-                // // Date of the Event(use moment to format this as "MM/DD/YYYY")
-                // console.log(`Event Date: ${date}`);
-                // fs.appendFile("log.txt", day, function(error){
-                //     if (error){
-                //     console.log(error); 
-                //     }
-                // })
-                // console.log(("Event Date: "+ moment(day)));
             }
-            // console.log(response);
         }
 
     )
