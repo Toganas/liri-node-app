@@ -34,40 +34,50 @@ function bands() {
             for (let i = 0; i < response.data.length; i++) {
                 let day = response.data[i].datetime
                 let date = moment(day).format("MM/DD/YYYY");
-                console.log(`
+                let venues = (`
                 Venue Name: ${response.data[i].venue.name}
                 Venue Location: ${response.data[i].venue.city}, ${response.data[i].venue.region}, ${response.data[i].venue.country}
-                Event Date: ${date}`)
+                Event Date: ${date}`);
+                console.log(venues);
+                fs.appendFile("log.txt", venues, function (error) {
+                    if (error) {
+                        throw error;
+                    }
+                })
             }
+            ;
         }
 
     )
 }
 function song(potato) {
     // console.log(this);
-    if (search){
+    if (search) {
         search = search;
-    }
-    else{
+    } else if (potato) {
         search = potato
+    }
+    else {
+        search = `The Sign`
     }
     const spotify1 = new spotify(keys.spotify);
     spotify1.search({ type: 'track', query: search }, (err, data) => {
-       
+
         if (err) {
             console.log('Error occurred: ' + err);
             return;
         }
 
-        // let data = `
-        // Artist Name: ${data.tracks.items[0].artists[0].name}
-        // Song Name: ${data.tracks.items[0].name}`;
-        // fs.appendFile("log.txt", data, function(error){
-        //     if (error){
-        //         throw error;
-        //     }
-        // })
-        //  console.log(data);
+        let data = `
+        Artist Name: ${data.tracks.items[0].artists[0].name}
+        Song Name: ${data.tracks.items[0].name}`;
+
+        fs.appendFile("log.txt", data, function (error) {
+            if (error) {
+                throw error;
+            }
+        })
+        console.log(data);
         // Do something with 'data'
     });
 }
@@ -107,7 +117,7 @@ function movie(potato) {
 
     if (search) {
         search = search
-    }else if (potato) {
+    } else if (potato) {
         search = potato
     }
     else {
@@ -162,12 +172,13 @@ function doWhatItSays() {
         // console.log(search);
         if (argv2 === "spotify-this-song") {
             song(potato);
-        }else if (argv2 === "movie-this"){
+        } else if (argv2 === "movie-this") {
             movie(potato);
         }
 
 
-})}
+    })
+}
 // node liri.js do -what - it - says
 
 
