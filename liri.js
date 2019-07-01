@@ -3,7 +3,7 @@ require("dotenv").config();
 const fs = require("fs");
 const axios = require("axios");
 const moment = require("moment");
-const Spotify = require("node-spotify-api");
+const spotify = require("node-spotify-api");
 const keys = require("./keys.js");
 
 // global variables
@@ -58,48 +58,36 @@ function bands(potato) {
         }
     )
 }
-function song() {
+function song(potato) {
     // console.log(this);
-    // if (search) {
-    //     search = search;
-    // } else if (potato) {
-    //     search = potato
-    // }
-    // else {
-    //     search = `The Sign`
-    // }
+    if (search) {
+        search = search;
+    } else if (potato) {
+        search = potato
+    }
+    else {
+        search = `The Sign`
+    }
+    const spotify1 = new spotify(keys.spotify);
+    spotify1.search({ type: 'track', query: search }, (err, data) => {
 
-    const spotify = new Spotify(keys.spotify);
-
-    spotify.search({type: 'track', query: 'All the Small Things' }, function (err, data) {
         if (err) {
-            return console.log('Error occurred: ' + err);
+            console.log('Error occurred: ' + err);
+            return;
         }
 
-        console.log(data);
+        let info = (`
+        Artist Name: ${data.tracks.items[0].artists[0].name}
+        Song Name: ${data.tracks.items[0].name}`);
+
+        fs.appendFile("log.txt", info, function (error) {
+            if (error) {
+                throw error;
+            }
+        })
+        console.log(info);
+        // Do something with 'data'
     });
-          
-
-
-//     spotify1.search({ type: 'track', query: search }, function (err, data)  {
-// console.log(data);
-//         if (err) {
-//             console.log('Error occurred: ' + err);
-//             return;
-//         }
-//         console.log(data.tracks.items[0].artists[0].name);
-//         // let data = `
-//         // Artist Name: ${data.tracks.items[0].artists[0].name}
-//         // Song Name: ${data.tracks.items[0].name}`;
-
-//         // fs.appendFile("log.txt", data, function (error) {
-//         //     if (error) {
-//         //         throw error;
-//         //     }
-//         // })
-//         // console.log(data);
-//         // Do something with 'data'
-//     });
 }
 
 // node liri.js spotify - this - song '<song name here>'
