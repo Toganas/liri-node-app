@@ -89,3 +89,14 @@ Similarly, if you have "movie-this, movie" in the "random.txt" file it will run 
 Finally, if you type in "concert-this,artist" in "random.txt" it will run the command for concert-this.  If you notice, you can **not** have a space between the command concert-this and artist.  If you do, it won't return any information.  The other two, the space is accepted in the search.
 
 ![do-what-it-says-concert](do-what-it-says-concert.png)
+
+
+### **Appending to File**
+
+After you run a command, the output will be appended to the file "log.txt".  It does not overwrite the information, so if you want to look at your most recent search, you'll have to scroll to the bottom of the file.
+
+Example:
+ 
+![log](log.png)
+
+As shown in the example, the log.txt continues to build on all the previous searches and the file begins to grow and grow.  The concert-this command returns a lot of information depending on the artist.
