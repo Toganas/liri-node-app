@@ -116,3 +116,12 @@
                 Venue Name: NIEBO
                 Venue Location: Warszawa, , Poland
                 Event Date: 12/03/2019
+            Movie Name: My Hero Academia: Two Heroes
+            Release year: 2018
+            Rating: PG-13
+            Rotten Tomatoes Score: 100%
+            Country Produced: Japan
+            Language: Japanese, English
+            Plot: All Might and Deku accept an invitation to visit I Island where they battle against a villain who takes the island hostage.
+            Actors: Justin Briner, Christopher Sabat, Ray Chase, Erica Mendez
+            
