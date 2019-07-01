@@ -134,3 +134,498 @@
             Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
             Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
             
+            Movie Name: The Lord of the Rings: The Fellowship of the Ring
+            Release year: 2001
+            Rating: PG-13
+            Rotten Tomatoes Score: 91%
+            Country Produced: New Zealand, USA
+            Language: English, Sindarin
+            Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+            
+                Venue Name: L.L Bean Summer in the Park Concerts
+                Venue Location: Freeport, ME, United States
+                Event Date: 07/27/2019
+                Venue Name: Stir Cove
+                Venue Location: Council Bluffs, IA, United States
+                Event Date: 09/20/2019
+                Venue Name: Paramount Theatre
+                Venue Location: Seattle, WA, United States
+                Event Date: 09/30/2019
+                Venue Name: Shrine Auditorium and Expo Hall
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 09/26/2019
+                Venue Name: The Great Saltair
+                Venue Location: Salt Lake City, UT, United States
+                Event Date: 10/03/2019
+                Venue Name: Theater Of The Clouds
+                Venue Location: Portland, OR, United States
+                Event Date: 10/01/2019
+                Venue Name: Bill Graham Civic Auditorium
+                Venue Location: Sf, CA, United States
+                Event Date: 09/28/2019
+                Venue Name: Red Rocks Amphitheatre
+                Venue Location: Morrison, CO, United States
+                Event Date: 10/05/2019
+                Venue Name: Express Live!
+                Venue Location: Columbus, OH, United States
+                Event Date: 10/18/2019
+                Venue Name: Radio City Music Hall
+                Venue Location: New York, NY, United States
+                Event Date: 10/10/2019
+                Venue Name: Indiana Farmers Coliseum
+                Venue Location: Indianapolis, IN, United States
+                Event Date: 10/19/2019
+                Venue Name: Armory
+                Venue Location: Minneapolis, MN, United States
+                Event Date: 10/22/2019
+                Venue Name: The Filmore
+                Venue Location: Detroit, MI, United States
+                Event Date: 10/16/2019
+                Venue Name: Uptown Theater
+                Venue Location: Kansas City, MO, United States
+                Event Date: 10/25/2019
+                Venue Name: The Sylvee
+                Venue Location: Madison, WI, United States
+                Event Date: 10/23/2019
+                Venue Name: The Pageant
+                Venue Location: St Louis, MO, United States
+                Event Date: 10/26/2019
+                Venue Name: 20 Monroe Live
+                Venue Location: Grand Rapids, MI, United States
+                Event Date: 10/20/2019
+                Venue Name: The Criterion
+                Venue Location: Oklahoma City, OK, United States
+                Event Date: 10/27/2019
+                Venue Name: Revention Music Center
+                Venue Location: Houston, TX, United States
+                Event Date: 10/31/2019
+                Venue Name: The Moody Theater
+                Venue Location: Austin, TX, United States
+                Event Date: 10/30/2019
+                Venue Name: Toyota Music Factory
+                Venue Location: Dallas, TX, United States
+                Event Date: 10/29/2019
+                Venue Name: The Filmore
+                Venue Location: New Orleans, LA, United States
+                Event Date: 11/06/2019
+                Venue Name: Infinite Energy Arena
+                Venue Location: Duluth, GA, United States
+                Event Date: 11/12/2019
+                Venue Name: The Neotheater World Tour
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 11/14/2019
+                Venue Name: Yuengling Center
+                Venue Location: Tampa, FL, United States
+                Event Date: 11/09/2019
+                Venue Name: Shea's Performing Art Center
+                Venue Location: Buffalo, NY, United States
+                Event Date: 11/19/2019
+                Venue Name: The Anthem
+                Venue Location: Washington, DC, United States
+                Event Date: 11/21/2019
+                Venue Name: UPMC Event Center
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 11/22/2019
+                Venue Name: NIEBO
+                Venue Location: Warszawa, , Poland
+                Event Date: 12/03/2019
+                Venue Name: Kesselhaus
+                Venue Location: Berlin-altglienicke, , Germany
+                Event Date: 12/04/2019
+                Venue Name: Zappa
+                Venue Location: Antwerpen - Merksem, , Belgium
+                Event Date: 12/06/2019
+                Venue Name: Hard Rock Cafe
+                Venue Location: Orlando, FL, United States
+                Event Date: 11/08/2019
+                Venue Name: Agganis Arena
+                Venue Location: Boston, MA, United States
+                Event Date: 11/16/2019
+                Venue Name: O2 Forum Kentish Town
+                Venue Location: London, , United Kingdom
+                Event Date: 12/10/2019
+                Venue Name: La Maroquinerie
+                Venue Location: Paris, , France
+                Event Date: 12/07/2019
+                Venue Name: SWG3 Studio Warehouse
+                Venue Location: Glasgow, , United Kingdom
+                Event Date: 12/12/2019
+                Venue Name: Manchester Acadamy 2
+                Venue Location: Manchester, , United Kingdom
+                Event Date: 12/14/2019
+                Venue Name: Melkweg
+                Venue Location: Amsterdam, , Netherlands
+                Event Date: 12/08/2019
+                Venue Name: Acadamy
+                Venue Location: Dublin, , Ireland
+                Event Date: 12/13/2019
+            Movie Name: The Lord of the Rings: The Fellowship of the Ring
+            Release year: 2001
+            Rating: PG-13
+            Rotten Tomatoes Score: 91%
+            Country Produced: New Zealand, USA
+            Language: English, Sindarin
+            Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+            
+            Movie Name: Star Wars: Episode VI - Return of the Jedi
+            Release year: 1983
+            Rating: PG
+            Rotten Tomatoes Score: 81%
+            Country Produced: USA
+            Language: English
+            Plot: After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.
+            Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+            
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 09/23/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 09/24/2019
+                Venue Name: Enterprise Center
+                Venue Location: Saint Louis, MO, United States
+                Event Date: 09/25/2019
+                Venue Name: United Center
+                Venue Location: Chicago, IL, United States
+                Event Date: 09/27/2019
+                Venue Name: Target Center
+                Venue Location: Minneapolis, MN, United States
+                Event Date: 09/28/2019
+                Venue Name: Quicken Loans Arena
+                Venue Location: Cleveland, OH, United States
+                Event Date: 09/30/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 10/01/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 10/02/2019
+                Venue Name: Fiserv Forum
+                Venue Location: Milwaukee, WI, United States
+                Event Date: 10/04/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 10/05/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 10/07/2019
+                Venue Name: Van Andel Arena
+                Venue Location: Grand Rapids, MI, United States
+                Event Date: 10/08/2019
+                Venue Name: Scotiabank Arena
+                Venue Location: Toronto, , Canada
+                Event Date: 10/09/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 10/11/2019
+                Venue Name: The Anthem
+                Venue Location: Washington, DC, United States
+                Event Date: 10/12/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 10/14/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 10/15/2019
+                Venue Name: BB&T Center
+                Venue Location: Sunrise, FL, United States
+                Event Date: 11/05/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 11/06/2019
+                Venue Name: PNC Arena
+                Venue Location: Raleigh, NC, United States
+                Event Date: 11/08/2019
+                Venue Name: State Farm Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 11/09/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 11/12/2019
+                Venue Name: Frank C Erwin Special Events Center
+                Venue Location: Austin, TX, United States
+                Event Date: 11/13/2019
+                Venue Name: Dickies Arena
+                Venue Location: Fort Worth, TX, United States
+                Event Date: 11/14/2019
+                Venue Name: Talking Stick Resort Arena
+                Venue Location: Phoenix, AZ, United States
+                Event Date: 11/16/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 11/17/2019
+                Venue Name: The Forum
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 11/19/2019
+                Venue Name: Chase Center
+                Venue Location: San Francisco, CA, United States
+                Event Date: 11/20/2019
+                Venue Name: Moda Center
+                Venue Location: Portland, OR, United States
+                Event Date: 11/22/2019
+                Venue Name: Tacoma Dome
+                Venue Location: Tacoma, WA, United States
+                Event Date: 11/23/2019
+                Venue Name: Rogers Arena
+                Venue Location: Vancouver, , Canada
+                Event Date: 11/24/2019
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 09/23/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 09/24/2019
+                Venue Name: Enterprise Center
+                Venue Location: Saint Louis, MO, United States
+                Event Date: 09/25/2019
+                Venue Name: United Center
+                Venue Location: Chicago, IL, United States
+                Event Date: 09/27/2019
+                Venue Name: Quicken Loans Arena
+                Venue Location: Cleveland, OH, United States
+                Event Date: 09/30/2019
+                Venue Name: Target Center
+                Venue Location: Minneapolis, MN, United States
+                Event Date: 09/28/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 10/01/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 10/02/2019
+                Venue Name: Fiserv Forum
+                Venue Location: Milwaukee, WI, United States
+                Event Date: 10/04/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 10/05/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 10/07/2019
+                Venue Name: Van Andel Arena
+                Venue Location: Grand Rapids, MI, United States
+                Event Date: 10/08/2019
+                Venue Name: Scotiabank Arena
+                Venue Location: Toronto, , Canada
+                Event Date: 10/09/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 10/11/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 10/14/2019
+                Venue Name: BB&T Center
+                Venue Location: Sunrise, FL, United States
+                Event Date: 11/05/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 10/15/2019
+                Venue Name: The Anthem
+                Venue Location: Washington, DC, United States
+                Event Date: 10/12/2019
+                Venue Name: State Farm Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 11/09/2019
+                Venue Name: PNC Arena
+                Venue Location: Raleigh, NC, United States
+                Event Date: 11/08/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 11/06/2019
+                Venue Name: Frank C Erwin Special Events Center
+                Venue Location: Austin, TX, United States
+                Event Date: 11/13/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 11/12/2019
+                Venue Name: Dickies Arena
+                Venue Location: Fort Worth, TX, United States
+                Event Date: 11/14/2019
+                Venue Name: Talking Stick Resort Arena
+                Venue Location: Phoenix, AZ, United States
+                Event Date: 11/16/2019
+                Venue Name: Chase Center
+                Venue Location: San Francisco, CA, United States
+                Event Date: 11/20/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 11/17/2019
+                Venue Name: Moda Center
+                Venue Location: Portland, OR, United States
+                Event Date: 11/22/2019
+                Venue Name: The Forum
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 11/19/2019
+                Venue Name: Rogers Arena
+                Venue Location: Vancouver, , Canada
+                Event Date: 11/24/2019
+                Venue Name: Tacoma Dome
+                Venue Location: Tacoma, WA, United States
+                Event Date: 11/23/2019
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 09/23/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 09/24/2019
+                Venue Name: Enterprise Center
+                Venue Location: Saint Louis, MO, United States
+                Event Date: 09/25/2019
+                Venue Name: United Center
+                Venue Location: Chicago, IL, United States
+                Event Date: 09/27/2019
+                Venue Name: Target Center
+                Venue Location: Minneapolis, MN, United States
+                Event Date: 09/28/2019
+                Venue Name: Quicken Loans Arena
+                Venue Location: Cleveland, OH, United States
+                Event Date: 09/30/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 10/01/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 10/02/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 10/05/2019
+                Venue Name: Van Andel Arena
+                Venue Location: Grand Rapids, MI, United States
+                Event Date: 10/08/2019
+                Venue Name: Fiserv Forum
+                Venue Location: Milwaukee, WI, United States
+                Event Date: 10/04/2019
+                Venue Name: Scotiabank Arena
+                Venue Location: Toronto, , Canada
+                Event Date: 10/09/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 10/11/2019
+                Venue Name: The Anthem
+                Venue Location: Washington, DC, United States
+                Event Date: 10/12/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 10/07/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 10/14/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 11/06/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 10/15/2019
+                Venue Name: State Farm Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 11/09/2019
+                Venue Name: PNC Arena
+                Venue Location: Raleigh, NC, United States
+                Event Date: 11/08/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 11/12/2019
+                Venue Name: Frank C Erwin Special Events Center
+                Venue Location: Austin, TX, United States
+                Event Date: 11/13/2019
+                Venue Name: Talking Stick Resort Arena
+                Venue Location: Phoenix, AZ, United States
+                Event Date: 11/16/2019
+                Venue Name: BB&T Center
+                Venue Location: Sunrise, FL, United States
+                Event Date: 11/05/2019
+                Venue Name: Dickies Arena
+                Venue Location: Fort Worth, TX, United States
+                Event Date: 11/14/2019
+                Venue Name: Chase Center
+                Venue Location: San Francisco, CA, United States
+                Event Date: 11/20/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 11/17/2019
+                Venue Name: The Forum
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 11/19/2019
+                Venue Name: Moda Center
+                Venue Location: Portland, OR, United States
+                Event Date: 11/22/2019
+                Venue Name: Tacoma Dome
+                Venue Location: Tacoma, WA, United States
+                Event Date: 11/23/2019
+                Venue Name: Rogers Arena
+                Venue Location: Vancouver, , Canada
+                Event Date: 11/24/2019
+            Movie Name: Fantastic Beasts and Where to Find Them
+            Release year: 2016
+            Rating: PG-13
+            Rotten Tomatoes Score: 74%
+            Country Produced: UK, USA
+            Language: English, Khmer
+            Plot: The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.
+            Actors: Eddie Redmayne, Sam Redford, Scott Goldman, Tim Bentinck
+            [object Object][object Object]
+        Artist Name: 3 Doors Down
+        Song Name: Kryptonite
+        Artist Name: Boomboys
+        Song Name: I Saw the Sign
+        Artist Name: Boomboys
+        Song Name: I Saw the Sign
+        Artist Name: 3 Doors Down
+        Song Name: Kryptonite
+        Preview Link: [object Object]
+        Artist Name: 3 Doors Down
+        Song Name: Kryptonite
+        Preview Link: https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6
+        Artist Name: 3 Doors Down
+        Song Name: Kryptonite
+        Preview Link: https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6
+        Artist Name: AJR
+        Song Name: Burn the House Down
+        Preview Link: https://open.spotify.com/track/0j7pdNXDzEVQST5Zcoh5xo
+        Album: The Click (Deluxe Edition)
+        Artist Name: Avril Lavigne
+        Song Name: Complicated
+        Preview Link: https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F
+        Album: Let Go
+            Movie Name: Equilibrium
+            Release year: 2002
+            Rating: R
+            Rotten Tomatoes Score: 40%
+            Country Produced: USA
+            Language: English
+            Plot: In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.
+            Actors: Christian Bale, Dominic Purcell, Sean Bean, Christian Kahrmann
+            
+        Artist Name: Avril Lavigne
+        Song Name: Complicated
+        Preview Link: https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F
+        Album: Let Go
+            Movie Name: The Lord of the Rings: The Fellowship of the Ring
+            Release year: 2001
+            Rating: PG-13
+            Rotten Tomatoes Score: 91%
+            Country Produced: New Zealand, USA
+            Language: English, Sindarin
+            Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+            
+            Movie Name: The Lord of the Rings: The Fellowship of the Ring
+            Release year: 2001
+            Rating: PG-13
+            Rotten Tomatoes Score: 91%
+            Country Produced: New Zealand, USA
+            Language: English, Sindarin
+            Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+            
+            Movie Name: Star Wars: Episode IV - A New Hope
+            Release year: 1977
+            Rating: PG
+            Rotten Tomatoes Score: 93%
+            Country Produced: USA
+            Language: English
+            Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+            Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+            

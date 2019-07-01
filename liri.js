@@ -9,7 +9,7 @@ const keys = require("./keys.js");
 // global variables
 
 let argv2 = process.argv[2]
-const omdbapi = "bbc6c707";
+const omdbapi = "trilogy";
 let searchInput = process.argv.slice(3);
 let search = searchInput.join(" ");
 
@@ -36,9 +36,9 @@ function bands(potato) {
     // query URL for Bands in Town
 
     let bandsInTown = "https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp"
-   
+
     // axios get bands in Town
-   
+
     axios.get(bandsInTown).then(
         response => {
             for (let i = 0; i < response.data.length; i++) {
@@ -66,7 +66,7 @@ function song(potato) {
         search = potato
     }
     else {
-        search = `The Sign`
+        search = `Ace of Base`
     }
     const spotify1 = new spotify(keys.spotify);
     spotify1.search({ type: 'track', query: search }, (err, data) => {
@@ -75,10 +75,12 @@ function song(potato) {
             console.log('Error occurred: ' + err);
             return;
         }
-
+        // console.log(data.tracks.items[5]);
         let info = (`
         Artist Name: ${data.tracks.items[0].artists[0].name}
-        Song Name: ${data.tracks.items[0].name}`);
+        Song Name: ${data.tracks.items[0].name}
+        Preview Link: ${data.tracks.items[0].external_urls.spotify}
+        Album: ${data.tracks.items[0].album.name}`);
 
         fs.appendFile("log.txt", info, function (error) {
             if (error) {
@@ -86,40 +88,12 @@ function song(potato) {
             }
         })
         console.log(info);
-        // Do something with 'data'
+
     });
 }
 
-// node liri.js spotify - this - song '<song name here>'
 
-
-
-
-
-
-// This will show the following information about the song in your terminal / bash window
-
-
-// Artist(s)
-// The song's name
-// A preview link of the song from Spotify
-// The album that the song is from
-
-
-// If no song is provided then your program will default to "The Sign" by Ace of Base.
-// You will utilize the node - spotify - api package in order to retrieve song information from the Spotify API.
-// The Spotify API requires you sign up as a developer to generate the necessary credentials.You can follow these steps in order to generate a client id and client secret:
-// Step One: Visit https://developer.spotify.com/my-applications/#!/
-// Step Two: Either login to your existing Spotify account or create a new one(a free account is fine) and log in.
-// Step Three: Once logged in, navigate to https://developer.spotify.com/my-applications/#!/applications/create to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
-// Step Four: On the next screen, scroll down to where you see your client id and client secret.Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package.
-
-
-
-
-
-
-// node liri.js movie - this '<movie name here>'
+// node liri.js movie-this '<movie name here>'
 
 function movie(potato) {
 
@@ -156,18 +130,15 @@ function movie(potato) {
 }
 
 function doWhatItSays() {
-
+    // read from the random.txt
     fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
             throw error;
         }
-        // console.log(data);
+        // split the data from the file into two different items based on the comma
         var separate = data.split(",");
-        // console.log(separate);
         argv2 = separate[0];
         potato = separate[1];
-        // console.log(argv2);
-        // console.log(search);
         if (argv2 === "spotify-this-song") {
             song(potato);
         } else if (argv2 === "movie-this") {
@@ -177,9 +148,3 @@ function doWhatItSays() {
         }
     })
 }
-// node liri.js do -what - it - says
-// Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-
-
-// It should run spotify - this - song for "I Want it That Way," as follows the text in random.txt.
-// Edit the text in random.txt to test out the feature for movie - this and concert - this.
