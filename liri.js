@@ -126,7 +126,17 @@ function movie(potato) {
     let queryURL = `http://www.omdbapi.com/?t=${search}&y=&plot=short&apikey=${omdbapi}`
     axios.get(queryURL).then(
         response => {
-            console.log(`Movie Name: ${response.data.Title}`);
+            console.log(response.data);
+            console.log(`
+            Movie Name: ${response.data.Title}
+            Release year: ${response.data.Year}
+            Rating: ${response.data.Rated}
+            Rotten Tomatoes Score: ${response.data.Ratings[1].Value}
+            Country Produced: ${response.data.Country}
+            Language: ${response.data.Language}
+            Plot: ${response.data.Plot}
+            Actors: ${response.data.Actors}
+            `);
         }
     )
 }
