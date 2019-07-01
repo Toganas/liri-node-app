@@ -125,3 +125,12 @@
             Plot: All Might and Deku accept an invitation to visit I Island where they battle against a villain who takes the island hostage.
             Actors: Justin Briner, Christopher Sabat, Ray Chase, Erica Mendez
             
+            Movie Name: Mr. Nobody
+            Release year: 2009
+            Rating: R
+            Rotten Tomatoes Score: 67%
+            Country Produced: Belgium, Germany, Canada, France, USA, UK
+            Language: English, Mohawk
+            Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+            Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            
