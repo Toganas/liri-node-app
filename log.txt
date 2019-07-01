@@ -629,3 +629,1245 @@
             Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
             Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
             
+                Venue Name: Tinderbox
+                Venue Location: Odense, , Denmark
+                Event Date: 06/27/2019
+                Venue Name: Lollapalooza Stockholm
+                Venue Location: Stockholm, , Sweden
+                Event Date: 06/28/2019
+                Venue Name: Shrine Expo Hall
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/09/2019
+                Venue Name: Glastonbury Festival
+                Venue Location: New Farm Loch, , United Kingdom
+                Event Date: 06/30/2019
+                Venue Name: Shrine Expo Hall
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/10/2019
+                Venue Name: Summerfest
+                Venue Location: Milwaukee, WI, United States
+                Event Date: 07/06/2019
+                Venue Name: Mad Decent Block Party Festival
+                Venue Location: Foxborough, MA, United States
+                Event Date: 07/20/2019
+                Venue Name: Cal Coast Credit Union Open Air Theater
+                Venue Location: San Diego, CA, United States
+                Event Date: 07/13/2019
+                Venue Name: Frequency Festival
+                Venue Location: Sankt Polten, , Austria
+                Event Date: 08/15/2019
+                Venue Name: Lowlands
+                Venue Location: Biddinghuizen, , Netherlands
+                Event Date: 08/16/2019
+                Venue Name: MS Dockville
+                Venue Location: Hamburg-nord, , Germany
+                Event Date: 08/16/2019
+                Venue Name: Lowlands
+                Venue Location: Biddinghuizen, , Netherlands
+                Event Date: 08/17/2019
+                Venue Name: Mad Decent Block Party Festival
+                Venue Location: Foxborough, MA, United States
+                Event Date: 07/21/2019
+                Venue Name: Pukkelpop
+                Venue Location: Hasselt, , Belgium
+                Event Date: 08/18/2019
+                Venue Name: Zürich OpenAir
+                Venue Location: Zurich, , Switzerland
+                Event Date: 08/22/2019
+                Venue Name: Reading Festival
+                Venue Location: Reading, , United Kingdom
+                Event Date: 08/24/2019
+                Venue Name: Greek Theatre
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/11/2019
+                Venue Name: Leeds Festival
+                Venue Location: Leeds, , United Kingdom
+                Event Date: 08/25/2019
+                Venue Name: Ice Palace
+                Venue Location: Sanktpeterburg, , Russia
+                Event Date: 08/28/2019
+                Venue Name: O2 Arena
+                Venue Location: Prague, , Czech Republic
+                Event Date: 08/20/2019
+                Venue Name: Megasport
+                Venue Location: Moscow, , Russia
+                Event Date: 08/27/2019
+                Venue Name: Electric Picnic Music and Arts Festival
+                Venue Location: Stradbally, , Ireland
+                Event Date: 08/31/2019
+                Venue Name: Electric Picnic Music and Arts Festival
+                Venue Location: Stradbally, , Ireland
+                Event Date: 09/01/2019
+                Venue Name: Milano Rocks
+                Venue Location: Milan, , Italy
+                Event Date: 08/31/2019
+                Venue Name: Electric Picnic Music and Arts Festival
+                Venue Location: Stradbally, , Ireland
+                Event Date: 08/30/2019
+                Venue Name: Palau Sant Jordi
+                Venue Location: Barcelona, , Spain
+                Event Date: 09/02/2019
+                Venue Name: WiZink Center
+                Venue Location: Madrid, , Spain
+                Event Date: 09/03/2019
+                Venue Name: Lollapalooza Berlin
+                Venue Location: Berlin-altglienicke, , Germany
+                Event Date: 09/07/2019
+                Venue Name: Music Midtown
+                Venue Location: Atlanta, GA, United States
+                Event Date: 09/15/2019
+                Venue Name: Altice Arena
+                Venue Location: Lisbon, , Portugal
+                Event Date: 09/04/2019
+                Venue Name: Life Is Beautiful
+                Venue Location: Las Vegas, NV, United States
+                Event Date: 09/20/2019
+                Venue Name: Austin City Limits Music Festival
+                Venue Location: Austin, TX, United States
+                Event Date: 10/05/2019
+                Venue Name: Corona Capital
+                Venue Location: Mexico City, , Mexico
+                Event Date: 11/16/2019
+                Venue Name: Austin City Limits Music Festival
+                Venue Location: Austin, TX, United States
+                Event Date: 10/12/2019
+                Venue Name: Corona Capital
+                Venue Location: Mexico City, , Mexico
+                Event Date: 11/17/2019
+                Venue Name: Music Midtown
+                Venue Location: Atlanta, GA, United States
+                Event Date: 09/14/2019
+                Venue Name: Pro Football Hall of Fame
+                Venue Location: Canton, OH, United States
+                Event Date: 08/04/2019
+                Venue Name: Formula 1 US Grand Prix
+                Venue Location: Austin, TX, United States
+                Event Date: 11/01/2019
+        Artist Name: Quadeca
+        Song Name: Uh Huh!
+        Preview Link: https://open.spotify.com/track/5RsoKNOQIbRKfqjaPzyWfE
+        Album: Voice Memos
+        Artist Name: Quadeca
+        Song Name: Uh Huh!
+        Preview Link: https://open.spotify.com/track/5RsoKNOQIbRKfqjaPzyWfE
+        Album: Voice Memos
+        Artist Name: Harry Styles
+        Song Name: Sign of the Times
+        Preview Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+        Album: Harry Styles
+        Artist Name: Ace of Base
+        Song Name: The Sign
+        Preview Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+        Album: The Sign (US Album) [Remastered]
+        Artist Name: Jade Bird
+        Song Name: Lottery
+        Preview Link: https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37
+        Album: Jade Bird
+        Artist Name: Jade Bird
+        Song Name: Uh Huh
+        Preview Link: https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4
+        Album: Jade Bird
+        Artist Name: Brynn Elliott
+        Song Name: Might Not Like Me
+        Preview Link: https://open.spotify.com/track/6jjthaSazWJUHKzNkkEDkQ
+        Album: Might Not Like Me
+            Movie Name: Aladdin
+            Release year: 1992
+            Rating: G
+            Rotten Tomatoes Score: 94%
+            Country Produced: USA
+            Language: English
+            Plot: A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+            Actors: Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+            
+        Artist Name: Official Odbeats
+        Song Name: Want Sexy Back
+        Preview Link: https://open.spotify.com/track/0GN0L8blcRHDPjzScAnX0l
+        Album: My Mind
+        Artist Name: Official Odbeats
+        Song Name: Want Sexy Back
+        Preview Link: https://open.spotify.com/track/0GN0L8blcRHDPjzScAnX0l
+        Album: My Mind
+        Artist Name: MC Hammer
+        Song Name: U Can't Touch This
+        Preview Link: https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu
+        Album: Please Hammer Don't Hurt 'Em
+            Movie Name: The Lord of the Rings: The Fellowship of the Ring
+            Release year: 2001
+            Rating: PG-13
+            Rotten Tomatoes Score: 91%
+            Country Produced: New Zealand, USA
+            Language: English, Sindarin
+            Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+            
+        Artist Name: AJR
+        Song Name: 100 Bad Days
+        Preview Link: https://open.spotify.com/track/17FK4etx1u2NK60cptINMS
+        Album: Neotheater
+                Venue Name: Summerfest
+                Venue Location: Milwaukee, WI, United States
+                Event Date: 07/06/2019
+                Venue Name: Shrine Expo Hall
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/09/2019
+                Venue Name: Shrine Expo Hall
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/10/2019
+                Venue Name: Greek Theatre
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/11/2019
+                Venue Name: Cal Coast Credit Union Open Air Theater
+                Venue Location: San Diego, CA, United States
+                Event Date: 07/13/2019
+                Venue Name: Mad Decent Block Party Festival
+                Venue Location: Foxborough, MA, United States
+                Event Date: 07/20/2019
+                Venue Name: Mad Decent Block Party Festival
+                Venue Location: Foxborough, MA, United States
+                Event Date: 07/21/2019
+                Venue Name: Frequency Festival
+                Venue Location: Sankt Polten, , Austria
+                Event Date: 08/15/2019
+                Venue Name: MS Dockville
+                Venue Location: Hamburg-nord, , Germany
+                Event Date: 08/16/2019
+                Venue Name: Lowlands
+                Venue Location: Biddinghuizen, , Netherlands
+                Event Date: 08/17/2019
+                Venue Name: O2 Arena
+                Venue Location: Prague, , Czech Republic
+                Event Date: 08/20/2019
+                Venue Name: Zürich OpenAir
+                Venue Location: Zurich, , Switzerland
+                Event Date: 08/22/2019
+                Venue Name: Reading Festival
+                Venue Location: Reading, , United Kingdom
+                Event Date: 08/24/2019
+                Venue Name: Leeds Festival
+                Venue Location: Leeds, , United Kingdom
+                Event Date: 08/25/2019
+                Venue Name: Megasport
+                Venue Location: Moscow, , Russia
+                Event Date: 08/27/2019
+                Venue Name: Lowlands
+                Venue Location: Biddinghuizen, , Netherlands
+                Event Date: 08/16/2019
+                Venue Name: Electric Picnic Music and Arts Festival
+                Venue Location: Stradbally, , Ireland
+                Event Date: 08/30/2019
+                Venue Name: Ice Palace
+                Venue Location: Sanktpeterburg, , Russia
+                Event Date: 08/28/2019
+                Venue Name: Electric Picnic Music and Arts Festival
+                Venue Location: Stradbally, , Ireland
+                Event Date: 08/31/2019
+                Venue Name: Pukkelpop
+                Venue Location: Hasselt, , Belgium
+                Event Date: 08/18/2019
+                Venue Name: Electric Picnic Music and Arts Festival
+                Venue Location: Stradbally, , Ireland
+                Event Date: 09/01/2019
+                Venue Name: Palau Sant Jordi
+                Venue Location: Barcelona, , Spain
+                Event Date: 09/02/2019
+                Venue Name: Altice Arena
+                Venue Location: Lisbon, , Portugal
+                Event Date: 09/04/2019
+                Venue Name: Lollapalooza Berlin
+                Venue Location: Berlin-altglienicke, , Germany
+                Event Date: 09/07/2019
+                Venue Name: Music Midtown
+                Venue Location: Atlanta, GA, United States
+                Event Date: 09/14/2019
+                Venue Name: Music Midtown
+                Venue Location: Atlanta, GA, United States
+                Event Date: 09/15/2019
+                Venue Name: Life Is Beautiful
+                Venue Location: Las Vegas, NV, United States
+                Event Date: 09/20/2019
+                Venue Name: Austin City Limits Music Festival
+                Venue Location: Austin, TX, United States
+                Event Date: 10/05/2019
+                Venue Name: Austin City Limits Music Festival
+                Venue Location: Austin, TX, United States
+                Event Date: 10/12/2019
+                Venue Name: WiZink Center
+                Venue Location: Madrid, , Spain
+                Event Date: 09/03/2019
+                Venue Name: Corona Capital
+                Venue Location: Mexico City, , Mexico
+                Event Date: 11/16/2019
+                Venue Name: Corona Capital
+                Venue Location: Mexico City, , Mexico
+                Event Date: 11/17/2019
+                Venue Name: Milano Rocks
+                Venue Location: Milan, , Italy
+                Event Date: 08/31/2019
+                Venue Name: Gurtenfestival 2019 (17.07 - 20.07)
+                Venue Location: Bern, , Switzerland
+                Event Date: 07/17/2019
+                Venue Name: Festival De Nimes
+                Venue Location: Nimes, , France
+                Event Date: 07/19/2019
+                Venue Name: Paléo Festival
+                Venue Location: Nyon, , Switzerland
+                Event Date: 07/23/2019
+                Venue Name: Lollapalooza 2019 (20.07 - 21.07)
+                Venue Location: Paris, , France
+                Event Date: 07/20/2019
+                Venue Name: Pukkelpop 2019 (15.08 - 18.08)
+                Venue Location: Kiewit, , Belgium
+                Event Date: 08/15/2019
+                Venue Name: Caberet Vert 2019 (22.08 - 25.08)
+                Venue Location: Charleville Mezieres, , France
+                Event Date: 08/22/2019
+                Venue Name: Reading Festival
+                Venue Location: Reading, , United Kingdom
+                Event Date: 08/24/2019
+                Venue Name: Lollapalooza 2019 (Saturday 08.03)
+                Venue Location: Chicago, IL, United States
+                Event Date: 08/03/2019
+                Venue Name: AUG 9-11: Outside Lands
+                Venue Location: San Francisco, CA, United States
+                Event Date: 08/09/2019
+                Venue Name: Leeds Festival
+                Venue Location: Leeds, , United Kingdom
+                Event Date: 08/25/2019
+                Venue Name: SZIGET FESTIVAL
+                Venue Location: Budapest, , Hungary
+                Event Date: 08/13/2019
+                Venue Name: Lollapalooza Berlin 2019
+                Venue Location: Berlin-altglienicke, , Germany
+                Event Date: 09/07/2019
+                Venue Name: L.L Bean Summer in the Park Concerts
+                Venue Location: Freeport, ME, United States
+                Event Date: 07/27/2019
+                Venue Name: Stir Cove
+                Venue Location: Council Bluffs, IA, United States
+                Event Date: 09/20/2019
+                Venue Name: Bill Graham Civic Auditorium
+                Venue Location: Sf, CA, United States
+                Event Date: 09/28/2019
+                Venue Name: Shrine Auditorium and Expo Hall
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 09/26/2019
+                Venue Name: Theater Of The Clouds
+                Venue Location: Portland, OR, United States
+                Event Date: 10/01/2019
+                Venue Name: The Great Saltair
+                Venue Location: Salt Lake City, UT, United States
+                Event Date: 10/03/2019
+                Venue Name: Radio City Music Hall
+                Venue Location: New York, NY, United States
+                Event Date: 10/10/2019
+                Venue Name: Red Rocks Amphitheatre
+                Venue Location: Morrison, CO, United States
+                Event Date: 10/05/2019
+                Venue Name: Express Live!
+                Venue Location: Columbus, OH, United States
+                Event Date: 10/18/2019
+                Venue Name: Paramount Theatre
+                Venue Location: Seattle, WA, United States
+                Event Date: 09/30/2019
+                Venue Name: Indiana Farmers Coliseum
+                Venue Location: Indianapolis, IN, United States
+                Event Date: 10/19/2019
+                Venue Name: 20 Monroe Live
+                Venue Location: Grand Rapids, MI, United States
+                Event Date: 10/20/2019
+                Venue Name: The Filmore
+                Venue Location: Detroit, MI, United States
+                Event Date: 10/16/2019
+                Venue Name: Uptown Theater
+                Venue Location: Kansas City, MO, United States
+                Event Date: 10/25/2019
+                Venue Name: Armory
+                Venue Location: Minneapolis, MN, United States
+                Event Date: 10/22/2019
+                Venue Name: The Pageant
+                Venue Location: St Louis, MO, United States
+                Event Date: 10/26/2019
+                Venue Name: The Criterion
+                Venue Location: Oklahoma City, OK, United States
+                Event Date: 10/27/2019
+                Venue Name: The Sylvee
+                Venue Location: Madison, WI, United States
+                Event Date: 10/23/2019
+                Venue Name: The Moody Theater
+                Venue Location: Austin, TX, United States
+                Event Date: 10/30/2019
+                Venue Name: Revention Music Center
+                Venue Location: Houston, TX, United States
+                Event Date: 10/31/2019
+                Venue Name: Hard Rock Cafe
+                Venue Location: Orlando, FL, United States
+                Event Date: 11/08/2019
+                Venue Name: The Filmore
+                Venue Location: New Orleans, LA, United States
+                Event Date: 11/06/2019
+                Venue Name: Toyota Music Factory
+                Venue Location: Dallas, TX, United States
+                Event Date: 10/29/2019
+                Venue Name: Infinite Energy Arena
+                Venue Location: Duluth, GA, United States
+                Event Date: 11/12/2019
+                Venue Name: The Neotheater World Tour
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 11/14/2019
+                Venue Name: Agganis Arena
+                Venue Location: Boston, MA, United States
+                Event Date: 11/16/2019
+                Venue Name: Shea's Performing Art Center
+                Venue Location: Buffalo, NY, United States
+                Event Date: 11/19/2019
+                Venue Name: Yuengling Center
+                Venue Location: Tampa, FL, United States
+                Event Date: 11/09/2019
+                Venue Name: NIEBO
+                Venue Location: Warszawa, , Poland
+                Event Date: 12/03/2019
+                Venue Name: UPMC Event Center
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 11/22/2019
+                Venue Name: Kesselhaus
+                Venue Location: Berlin-altglienicke, , Germany
+                Event Date: 12/04/2019
+                Venue Name: Zappa
+                Venue Location: Antwerpen - Merksem, , Belgium
+                Event Date: 12/06/2019
+                Venue Name: The Anthem
+                Venue Location: Washington, DC, United States
+                Event Date: 11/21/2019
+                Venue Name: O2 Forum Kentish Town
+                Venue Location: London, , United Kingdom
+                Event Date: 12/10/2019
+                Venue Name: La Maroquinerie
+                Venue Location: Paris, , France
+                Event Date: 12/07/2019
+                Venue Name: SWG3 Studio Warehouse
+                Venue Location: Glasgow, , United Kingdom
+                Event Date: 12/12/2019
+                Venue Name: Manchester Acadamy 2
+                Venue Location: Manchester, , United Kingdom
+                Event Date: 12/14/2019
+                Venue Name: Melkweg
+                Venue Location: Amsterdam, , Netherlands
+                Event Date: 12/08/2019
+                Venue Name: Acadamy
+                Venue Location: Dublin, , Ireland
+                Event Date: 12/13/2019
+            Movie Name: The Lord of the Rings: The Fellowship of the Ring
+            Release year: 2001
+            Rating: PG-13
+            Rotten Tomatoes Score: 91%
+            Country Produced: New Zealand, USA
+            Language: English, Sindarin
+            Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+            Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+            
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 07/02/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/05/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 07/08/2019
+                Venue Name: Golden 1 Center
+                Venue Location: Sacramento, CA, United States
+                Event Date: 07/11/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/13/2019
+                Venue Name: Gila River Arena
+                Venue Location: Glendale, AZ, United States
+                Event Date: 07/09/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/06/2019
+                Venue Name: Vivint Smart Home Arena
+                Venue Location: Salt Lake City, UT, United States
+                Event Date: 07/16/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 07/19/2019
+                Venue Name: American Airlines Center
+                Venue Location: Dallas, TX, United States
+                Event Date: 07/22/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/14/2019
+                Venue Name: AT&T Center
+                Venue Location: San Antonio, TX, United States
+                Event Date: 07/23/2019
+                Venue Name: BOK Center
+                Venue Location: Tulsa, OK, United States
+                Event Date: 07/20/2019
+                Venue Name: AmericanAirlines Arena
+                Venue Location: Miami, FL, United States
+                Event Date: 07/28/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 07/30/2019
+                Venue Name: Philips Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 07/31/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 08/02/2019
+                Venue Name: KFC Yum! Center
+                Venue Location: Louisville, KY, United States
+                Event Date: 08/03/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 07/25/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 08/05/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 08/06/2019
+                Venue Name: Amalie Arena
+                Venue Location: Tampa, FL, United States
+                Event Date: 07/27/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/10/2019
+                Venue Name: Capital One Arena
+                Venue Location: Washington, DC, United States
+                Event Date: 08/13/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/16/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/20/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/15/2019
+                Venue Name: Canadian Tire Centre
+                Venue Location: Ottawa, , Canada
+                Event Date: 08/18/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/23/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/21/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/24/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 08/26/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 08/28/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/31/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/30/2019
+                Venue Name: Mercedes-Benz Arena
+                Venue Location: Shanghai, , China
+                Event Date: 09/28/2019
+                Venue Name: Rogers Centre
+                Venue Location: Toronto, , Canada
+                Event Date: 09/06/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/11/2019
+                Venue Name: Axiata Arena
+                Venue Location: Kuala Lumpur, , Malaysia
+                Event Date: 10/05/2019
+                Venue Name: Sentul International Convention Center
+                Venue Location: Jakarta, , Indonesia
+                Event Date: 10/08/2019
+                Venue Name: Impact Arena
+                Venue Location: Bangkok, , Thailand
+                Event Date: 10/01/2019
+                Venue Name: Singapore Indoor Stadium
+                Venue Location: Singapore, , Singapore
+                Event Date: 10/04/2019
+                Venue Name: Yokohama Arena
+                Venue Location: Tokyo, , Japan
+                Event Date: 10/16/2019
+                Venue Name: Adelaide Entertainment Centre
+                Venue Location: Adelaide, , Australia
+                Event Date: 10/26/2019
+                Venue Name: Cotai Arena
+                Venue Location: Macao, , China
+                Event Date: 10/13/2019
+                Venue Name: Perth Arena 
+                Venue Location: Perth, , Australia
+                Event Date: 10/23/2019
+                Venue Name: Mall of Asia Arena
+                Venue Location: Manila, , Philippines
+                Event Date: 10/10/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/29/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/31/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/02/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/30/2019
+                Venue Name: Entertainment Centre Brisbane
+                Venue Location: Brisbane, , Australia
+                Event Date: 11/06/2019
+                Venue Name: Spark Arena
+                Venue Location: Auckland, , New Zealand
+                Event Date: 11/09/2019
+                Venue Name: Allianz Parque
+                Venue Location: Agua Branca, , Brazil
+                Event Date: 11/29/2019
+                Venue Name: Jeunesse Arena
+                Venue Location: Rio De Janeiro, , Brazil
+                Event Date: 12/03/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/06/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/07/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/03/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/11/2019
+                Venue Name: Allianz Parque
+                Venue Location: Sao Paulo, , Brazil
+                Event Date: 11/30/2019
+                Venue Name: Jockey Club Del Peru
+                Venue Location: Santiago De Surco, , Peru
+                Event Date: 12/14/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Mexico City, , Mexico
+                Event Date: 12/19/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/20/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/10/2019
+                Venue Name: Auditorio Citibanamex
+                Venue Location: Monterrey, , Mexico
+                Event Date: 12/17/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/21/2019
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 07/02/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/05/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/06/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 07/08/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/13/2019
+                Venue Name: Golden 1 Center
+                Venue Location: Sacramento, CA, United States
+                Event Date: 07/11/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/14/2019
+                Venue Name: Gila River Arena
+                Venue Location: Glendale, AZ, United States
+                Event Date: 07/09/2019
+                Venue Name: Vivint Smart Home Arena
+                Venue Location: Salt Lake City, UT, United States
+                Event Date: 07/16/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 07/19/2019
+                Venue Name: BOK Center
+                Venue Location: Tulsa, OK, United States
+                Event Date: 07/20/2019
+                Venue Name: American Airlines Center
+                Venue Location: Dallas, TX, United States
+                Event Date: 07/22/2019
+                Venue Name: AT&T Center
+                Venue Location: San Antonio, TX, United States
+                Event Date: 07/23/2019
+                Venue Name: AmericanAirlines Arena
+                Venue Location: Miami, FL, United States
+                Event Date: 07/28/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 07/30/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 07/25/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 08/02/2019
+                Venue Name: KFC Yum! Center
+                Venue Location: Louisville, KY, United States
+                Event Date: 08/03/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 08/05/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 08/06/2019
+                Venue Name: Philips Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 07/31/2019
+                Venue Name: Amalie Arena
+                Venue Location: Tampa, FL, United States
+                Event Date: 07/27/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/10/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/11/2019
+                Venue Name: Capital One Arena
+                Venue Location: Washington, DC, United States
+                Event Date: 08/13/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/15/2019
+                Venue Name: Canadian Tire Centre
+                Venue Location: Ottawa, , Canada
+                Event Date: 08/18/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/16/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/23/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/24/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 08/26/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 08/28/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/30/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/21/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/31/2019
+                Venue Name: Mercedes-Benz Arena
+                Venue Location: Shanghai, , China
+                Event Date: 09/28/2019
+                Venue Name: Impact Arena
+                Venue Location: Bangkok, , Thailand
+                Event Date: 10/01/2019
+                Venue Name: Rogers Centre
+                Venue Location: Toronto, , Canada
+                Event Date: 09/06/2019
+                Venue Name: Singapore Indoor Stadium
+                Venue Location: Singapore, , Singapore
+                Event Date: 10/04/2019
+                Venue Name: Sentul International Convention Center
+                Venue Location: Jakarta, , Indonesia
+                Event Date: 10/08/2019
+                Venue Name: Mall of Asia Arena
+                Venue Location: Manila, , Philippines
+                Event Date: 10/10/2019
+                Venue Name: Cotai Arena
+                Venue Location: Macao, , China
+                Event Date: 10/13/2019
+                Venue Name: Yokohama Arena
+                Venue Location: Tokyo, , Japan
+                Event Date: 10/16/2019
+                Venue Name: Perth Arena 
+                Venue Location: Perth, , Australia
+                Event Date: 10/23/2019
+                Venue Name: Axiata Arena
+                Venue Location: Kuala Lumpur, , Malaysia
+                Event Date: 10/05/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/29/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/30/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/20/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/31/2019
+                Venue Name: Adelaide Entertainment Centre
+                Venue Location: Adelaide, , Australia
+                Event Date: 10/26/2019
+                Venue Name: Entertainment Centre Brisbane
+                Venue Location: Brisbane, , Australia
+                Event Date: 11/06/2019
+                Venue Name: Spark Arena
+                Venue Location: Auckland, , New Zealand
+                Event Date: 11/09/2019
+                Venue Name: Allianz Parque
+                Venue Location: Agua Branca, , Brazil
+                Event Date: 11/29/2019
+                Venue Name: Allianz Parque
+                Venue Location: Sao Paulo, , Brazil
+                Event Date: 11/30/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/02/2019
+                Venue Name: Jeunesse Arena
+                Venue Location: Rio De Janeiro, , Brazil
+                Event Date: 12/03/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/03/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/10/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/06/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/11/2019
+                Venue Name: Jockey Club Del Peru
+                Venue Location: Santiago De Surco, , Peru
+                Event Date: 12/14/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Mexico City, , Mexico
+                Event Date: 12/19/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/20/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/21/2019
+                Venue Name: Auditorio Citibanamex
+                Venue Location: Monterrey, , Mexico
+                Event Date: 12/17/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/07/2019
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 07/02/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/06/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/05/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 07/08/2019
+                Venue Name: Gila River Arena
+                Venue Location: Glendale, AZ, United States
+                Event Date: 07/09/2019
+                Venue Name: Golden 1 Center
+                Venue Location: Sacramento, CA, United States
+                Event Date: 07/11/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/13/2019
+                Venue Name: Vivint Smart Home Arena
+                Venue Location: Salt Lake City, UT, United States
+                Event Date: 07/16/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/14/2019
+                Venue Name: American Airlines Center
+                Venue Location: Dallas, TX, United States
+                Event Date: 07/22/2019
+                Venue Name: BOK Center
+                Venue Location: Tulsa, OK, United States
+                Event Date: 07/20/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 07/19/2019
+                Venue Name: Amalie Arena
+                Venue Location: Tampa, FL, United States
+                Event Date: 07/27/2019
+                Venue Name: AmericanAirlines Arena
+                Venue Location: Miami, FL, United States
+                Event Date: 07/28/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 07/25/2019
+                Venue Name: AT&T Center
+                Venue Location: San Antonio, TX, United States
+                Event Date: 07/23/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 07/30/2019
+                Venue Name: Philips Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 07/31/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 08/02/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 08/05/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 08/06/2019
+                Venue Name: KFC Yum! Center
+                Venue Location: Louisville, KY, United States
+                Event Date: 08/03/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/10/2019
+                Venue Name: Capital One Arena
+                Venue Location: Washington, DC, United States
+                Event Date: 08/13/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/15/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/16/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/11/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/20/2019
+                Venue Name: Canadian Tire Centre
+                Venue Location: Ottawa, , Canada
+                Event Date: 08/18/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/23/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/21/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 08/26/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 08/28/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/30/2019
+                Venue Name: Rogers Centre
+                Venue Location: Toronto, , Canada
+                Event Date: 09/06/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/24/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/31/2019
+                Venue Name: Singapore Indoor Stadium
+                Venue Location: Singapore, , Singapore
+                Event Date: 10/04/2019
+                Venue Name: Axiata Arena
+                Venue Location: Kuala Lumpur, , Malaysia
+                Event Date: 10/05/2019
+                Venue Name: Mercedes-Benz Arena
+                Venue Location: Shanghai, , China
+                Event Date: 09/28/2019
+                Venue Name: Mall of Asia Arena
+                Venue Location: Manila, , Philippines
+                Event Date: 10/10/2019
+                Venue Name: Sentul International Convention Center
+                Venue Location: Jakarta, , Indonesia
+                Event Date: 10/08/2019
+                Venue Name: Yokohama Arena
+                Venue Location: Tokyo, , Japan
+                Event Date: 10/16/2019
+                Venue Name: Impact Arena
+                Venue Location: Bangkok, , Thailand
+                Event Date: 10/01/2019
+                Venue Name: Perth Arena 
+                Venue Location: Perth, , Australia
+                Event Date: 10/23/2019
+                Venue Name: Adelaide Entertainment Centre
+                Venue Location: Adelaide, , Australia
+                Event Date: 10/26/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/29/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/30/2019
+                Venue Name: Cotai Arena
+                Venue Location: Macao, , China
+                Event Date: 10/13/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/31/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/02/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/03/2019
+                Venue Name: Entertainment Centre Brisbane
+                Venue Location: Brisbane, , Australia
+                Event Date: 11/06/2019
+                Venue Name: Allianz Parque
+                Venue Location: Sao Paulo, , Brazil
+                Event Date: 11/30/2019
+                Venue Name: Jeunesse Arena
+                Venue Location: Rio De Janeiro, , Brazil
+                Event Date: 12/03/2019
+                Venue Name: Spark Arena
+                Venue Location: Auckland, , New Zealand
+                Event Date: 11/09/2019
+                Venue Name: Allianz Parque
+                Venue Location: Agua Branca, , Brazil
+                Event Date: 11/29/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/06/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/07/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/10/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/11/2019
+                Venue Name: Jockey Club Del Peru
+                Venue Location: Santiago De Surco, , Peru
+                Event Date: 12/14/2019
+                Venue Name: Auditorio Citibanamex
+                Venue Location: Monterrey, , Mexico
+                Event Date: 12/17/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Mexico City, , Mexico
+                Event Date: 12/19/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/20/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/21/2019
+                Venue Name: Pepsi Center
+                Venue Location: Denver, CO, United States
+                Event Date: 07/02/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/05/2019
+                Venue Name: Pechanga Arena San Diego
+                Venue Location: San Diego, CA, United States
+                Event Date: 07/08/2019
+                Venue Name: Staples Center
+                Venue Location: Los Angeles, CA, United States
+                Event Date: 07/06/2019
+                Venue Name: Gila River Arena
+                Venue Location: Glendale, AZ, United States
+                Event Date: 07/09/2019
+                Venue Name: Golden 1 Center
+                Venue Location: Sacramento, CA, United States
+                Event Date: 07/11/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/13/2019
+                Venue Name: Oracle Arena
+                Venue Location: Oakland, CA, United States
+                Event Date: 07/14/2019
+                Venue Name: Vivint Smart Home Arena
+                Venue Location: Salt Lake City, UT, United States
+                Event Date: 07/16/2019
+                Venue Name: Sprint Center
+                Venue Location: Kansas City, MO, United States
+                Event Date: 07/19/2019
+                Venue Name: BOK Center
+                Venue Location: Tulsa, OK, United States
+                Event Date: 07/20/2019
+                Venue Name: American Airlines Center
+                Venue Location: Dallas, TX, United States
+                Event Date: 07/22/2019
+                Venue Name: AT&T Center
+                Venue Location: San Antonio, TX, United States
+                Event Date: 07/23/2019
+                Venue Name: Toyota Center
+                Venue Location: Houston, TX, United States
+                Event Date: 07/25/2019
+                Venue Name: Amalie Arena
+                Venue Location: Tampa, FL, United States
+                Event Date: 07/27/2019
+                Venue Name: AmericanAirlines Arena
+                Venue Location: Miami, FL, United States
+                Event Date: 07/28/2019
+                Venue Name: Amway Center
+                Venue Location: Orlando, FL, United States
+                Event Date: 07/30/2019
+                Venue Name: Philips Arena
+                Venue Location: Atlanta, GA, United States
+                Event Date: 07/31/2019
+                Venue Name: Bridgestone Arena
+                Venue Location: Nashville, TN, United States
+                Event Date: 08/02/2019
+                Venue Name: KFC Yum! Center
+                Venue Location: Louisville, KY, United States
+                Event Date: 08/03/2019
+                Venue Name: Little Caesars Arena
+                Venue Location: Detroit, MI, United States
+                Event Date: 08/05/2019
+                Venue Name: PPG Paints Arena
+                Venue Location: Pittsburgh, PA, United States
+                Event Date: 08/06/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/10/2019
+                Venue Name: Prudential Center
+                Venue Location: Newark, NJ, United States
+                Event Date: 08/11/2019
+                Venue Name: Capital One Arena
+                Venue Location: Washington, DC, United States
+                Event Date: 08/13/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/16/2019
+                Venue Name: Canadian Tire Centre
+                Venue Location: Ottawa, , Canada
+                Event Date: 08/18/2019
+                Venue Name: TD Garden
+                Venue Location: Boston, MA, United States
+                Event Date: 08/15/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/21/2019
+                Venue Name: Bell Centre
+                Venue Location: Montreal, , Canada
+                Event Date: 08/20/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/23/2019
+                Venue Name: Barclays Center
+                Venue Location: Brooklyn, NY, United States
+                Event Date: 08/24/2019
+                Venue Name: Nationwide Arena
+                Venue Location: Columbus, OH, United States
+                Event Date: 08/26/2019
+                Venue Name: Wells Fargo Center
+                Venue Location: Philadelphia, PA, United States
+                Event Date: 08/28/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/30/2019
+                Venue Name: Mohegan Sun Arena
+                Venue Location: Montville Center, CT, United States
+                Event Date: 08/31/2019
+                Venue Name: Rogers Centre
+                Venue Location: Toronto, , Canada
+                Event Date: 09/06/2019
+                Venue Name: Mercedes-Benz Arena
+                Venue Location: Shanghai, , China
+                Event Date: 09/28/2019
+                Venue Name: Impact Arena
+                Venue Location: Bangkok, , Thailand
+                Event Date: 10/01/2019
+                Venue Name: Singapore Indoor Stadium
+                Venue Location: Singapore, , Singapore
+                Event Date: 10/04/2019
+                Venue Name: Axiata Arena
+                Venue Location: Kuala Lumpur, , Malaysia
+                Event Date: 10/05/2019
+                Venue Name: Mall of Asia Arena
+                Venue Location: Manila, , Philippines
+                Event Date: 10/10/2019
+                Venue Name: Sentul International Convention Center
+                Venue Location: Jakarta, , Indonesia
+                Event Date: 10/08/2019
+                Venue Name: Cotai Arena
+                Venue Location: Macao, , China
+                Event Date: 10/13/2019
+                Venue Name: Yokohama Arena
+                Venue Location: Tokyo, , Japan
+                Event Date: 10/16/2019
+                Venue Name: Perth Arena 
+                Venue Location: Perth, , Australia
+                Event Date: 10/23/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/30/2019
+                Venue Name: Adelaide Entertainment Centre
+                Venue Location: Adelaide, , Australia
+                Event Date: 10/26/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/02/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/31/2019
+                Venue Name: Qudos Bank Arena
+                Venue Location: Sydney, , Australia
+                Event Date: 11/03/2019
+                Venue Name: Rod Laver Arena
+                Venue Location: Melbourne, , Australia
+                Event Date: 10/29/2019
+                Venue Name: Allianz Parque
+                Venue Location: Agua Branca, , Brazil
+                Event Date: 11/29/2019
+                Venue Name: Entertainment Centre Brisbane
+                Venue Location: Brisbane, , Australia
+                Event Date: 11/06/2019
+                Venue Name: Jeunesse Arena
+                Venue Location: Rio De Janeiro, , Brazil
+                Event Date: 12/03/2019
+                Venue Name: Allianz Parque
+                Venue Location: Sao Paulo, , Brazil
+                Event Date: 11/30/2019
+                Venue Name: Spark Arena
+                Venue Location: Auckland, , New Zealand
+                Event Date: 11/09/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/10/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/07/2019
+                Venue Name: Jockey Club Del Peru
+                Venue Location: Santiago De Surco, , Peru
+                Event Date: 12/14/2019
+                Venue Name: Movistar Arena
+                Venue Location: Santiago, , Chile
+                Event Date: 12/11/2019
+                Venue Name: Auditorio Citibanamex
+                Venue Location: Monterrey, , Mexico
+                Event Date: 12/17/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Mexico City, , Mexico
+                Event Date: 12/19/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/20/2019
+                Venue Name: BA Arena
+                Venue Location: Buenos Aires, , Argentina
+                Event Date: 12/06/2019
+                Venue Name: Palacio de los Deportes
+                Venue Location: Nuevo Mexico, , Mexico
+                Event Date: 12/21/2019
+            Movie Name: Equilibrium
+            Release year: 2002
+            Rating: R
+            Rotten Tomatoes Score: 40%
+            Country Produced: USA
+            Language: English
+            Plot: In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.
+            Actors: Christian Bale, Dominic Purcell, Sean Bean, Christian Kahrmann
+            
+        Artist Name: AJR
+        Song Name: Burn the House Down
+        Preview Link: https://open.spotify.com/track/0j7pdNXDzEVQST5Zcoh5xo
+        Album: The Click (Deluxe Edition)
