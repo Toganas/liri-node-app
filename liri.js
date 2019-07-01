@@ -3,7 +3,7 @@ require("dotenv").config();
 const fs = require("fs");
 const axios = require("axios");
 const moment = require("moment");
-const spotify = require("node-spotify-api");
+const Spotify = require("node-spotify-api");
 const keys = require("./keys.js");
 
 // global variables
@@ -13,7 +13,6 @@ const omdbapi = "bbc6c707";
 let searchInput = process.argv.slice(3);
 let search = searchInput.join(" ");
 
-let bandsInTown = "https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp"
 
 // concert grabbing from Bands in Town api
 if (argv2 === "concert-this") {
@@ -26,9 +25,20 @@ if (argv2 === "concert-this") {
     doWhatItSays();
 }
 
-// axios get bands in Town
 
-function bands() {
+
+function bands(potato) {
+    if (search) {
+        search = search
+    } else if (potato) {
+        search = potato
+    }
+    // query URL for Bands in Town
+
+    let bandsInTown = "https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp"
+   
+    // axios get bands in Town
+   
     axios.get(bandsInTown).then(
         response => {
             for (let i = 0; i < response.data.length; i++) {
@@ -44,42 +54,52 @@ function bands() {
                         throw error;
                     }
                 })
-            }
-            ;
+            };
         }
-
     )
 }
-function song(potato) {
+function song() {
     // console.log(this);
-    if (search) {
-        search = search;
-    } else if (potato) {
-        search = potato
-    }
-    else {
-        search = `The Sign`
-    }
-    const spotify1 = new spotify(keys.spotify);
-    spotify1.search({ type: 'track', query: search }, (err, data) => {
+    // if (search) {
+    //     search = search;
+    // } else if (potato) {
+    //     search = potato
+    // }
+    // else {
+    //     search = `The Sign`
+    // }
 
+    const spotify = new Spotify(keys.spotify);
+
+    spotify.search({type: 'track', query: 'All the Small Things' }, function (err, data) {
         if (err) {
-            console.log('Error occurred: ' + err);
-            return;
+            return console.log('Error occurred: ' + err);
         }
 
-        let data = `
-        Artist Name: ${data.tracks.items[0].artists[0].name}
-        Song Name: ${data.tracks.items[0].name}`;
-
-        fs.appendFile("log.txt", data, function (error) {
-            if (error) {
-                throw error;
-            }
-        })
         console.log(data);
-        // Do something with 'data'
     });
+          
+
+
+//     spotify1.search({ type: 'track', query: search }, function (err, data)  {
+// console.log(data);
+//         if (err) {
+//             console.log('Error occurred: ' + err);
+//             return;
+//         }
+//         console.log(data.tracks.items[0].artists[0].name);
+//         // let data = `
+//         // Artist Name: ${data.tracks.items[0].artists[0].name}
+//         // Song Name: ${data.tracks.items[0].name}`;
+
+//         // fs.appendFile("log.txt", data, function (error) {
+//         //     if (error) {
+//         //         throw error;
+//         //     }
+//         // })
+//         // console.log(data);
+//         // Do something with 'data'
+//     });
 }
 
 // node liri.js spotify - this - song '<song name here>'
@@ -147,32 +167,6 @@ function movie(potato) {
     )
 }
 
-
-// This will output the following information to your terminal / bash window:
-
-//    * Title of the movie.
-//    * Year the movie came out.
-//    * IMDB Rating of the movie.
-//    * Rotten Tomatoes Rating of the movie.
-//    * Country where the movie was produced.
-//    * Language of the movie.
-//    * Plot of the movie.
-//    * Actors in the movie.
-
-
-// If the user doesn't type a movie in, the program will output data for the movie 'Mr.Nobody.'
-
-
-// If you haven't watched "Mr. Nobody," then you should: http://www.imdb.com/title/tt0485947/
-
-// It's on Netflix!
-
-
-// You'll use the axios package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use trilogy.
-
-
-
-
 function doWhatItSays() {
 
     fs.readFile("random.txt", "utf8", function (error, data) {
@@ -190,17 +184,12 @@ function doWhatItSays() {
             song(potato);
         } else if (argv2 === "movie-this") {
             movie(potato);
+        } else if (argv2 === "concert-this") {
+            bands(potato);
         }
-
-
     })
 }
 // node liri.js do -what - it - says
-
-
-
-
-
 // Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 
